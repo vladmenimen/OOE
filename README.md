@@ -1,5 +1,5 @@
 # OOE
-Лабораторная робота №1  https://github.com/vladmenimen/vladmenimen.github.io/111.psd <br>
+Лабораторная робота №1  https://github.com/vladmenimen/vladmenimen.github.io/blob/master/LATEX_3_LAB.html <br>
 Лабораторная робота №2 <br> 
 Лабораторная робота №3 <br> 
 Лабораторная робота №4 <br> 
