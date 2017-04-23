@@ -1,5 +1,5 @@
 # OOE
-Лабораторная робота №1 <a href="vladmenimen.github.io/lab2/" target="_blank">view</a> <br>
+Лабораторная робота №1 <a href="vladmenimen.github.io/lab2/LETTER.html" target="_blank">view</a> <br>
 Лабораторная робота №2 <br> 
 Лабораторная робота №3 <br> 
 Лабораторная робота №4 <br> 
