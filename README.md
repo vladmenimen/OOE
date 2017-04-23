@@ -1,7 +1,9 @@
 # OOE
-echo "# OOE" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/vladmenimen/OOE.git
-git push -u origin master
+Лабораторная робота №1   
+Лабораторная робота №2
+Лабораторная робота №3
+Лабораторная робота №4
+Лабораторная робота №5
+Лабораторная робота №6
+Лабораторная робота №7
+Лабораторная робота №8 
